@@ -12,7 +12,7 @@
     ]
     themes: [
       "seti-ui"
-      "monokai"
+      "sublime-default-syntax"
     ]
   editor:
     invisibles: {}
