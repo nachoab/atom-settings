@@ -1,15 +1,32 @@
 "*":
+  "exception-reporting":
+    userId: "7f128a55-d17b-cae8-d951-bea0e489dd4f"
+  welcome:
+    showOnStartup: false
+  linter: {}
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "highlight-column"
+      "file-icons"
+    ]
+    themes: [
+      "seti-ui"
+      "sublime-default-syntax"
+    ]
   editor:
     invisibles: {}
     showIndentGuide: true
-    scrollPastEnd: true
-    fontSize: 13
-  core:
-    themes: [
-      "one-dark-ui"
-      "monokai"
-    ]
-  "exception-reporting":
-    userId: "47932fdc-cc39-63a8-fa5f-aa3cd2a9e973"
-  welcome:
-    showOnStartup: false
+  minimap:
+    plugins:
+      "highlight-selected": true
+  "highlight-selected":
+    lightTheme: true
+  "autocomplete-plus": {}
+  "one-light-ui":
+    layoutMode: "Compact"
+  "atom-beautify":
+    _analyticsUserId: "2d75de8b-109a-4beb-a972-b4f9396e36c4"
+".git-commit.text":
+  editor:
+    showIndentGuide: false
