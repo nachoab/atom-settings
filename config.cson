@@ -1,0 +1,15 @@
+"*":
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    scrollPastEnd: true
+    fontSize: 13
+  core:
+    themes: [
+      "one-dark-ui"
+      "monokai"
+    ]
+  "exception-reporting":
+    userId: "47932fdc-cc39-63a8-fa5f-aa3cd2a9e973"
+  welcome:
+    showOnStartup: false
