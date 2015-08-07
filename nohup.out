@@ -1,0 +1,43 @@
+[17921:0714/122200:ERROR:browser_main_loop.cc(170)] Running without the SUID sandbox! See https://code.google.com/p/chromium/wiki/LinuxSUIDSandboxDevelopment for more information on developing with the sandbox on.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+App load time: 6122ms
+[18657:0714/122207:INFO:renderer_main.cc(212)] Renderer process started
+[17921:0714/122339:INFO:CONSOLE(133)] "Loading Emmet extensions from", source: /home/nacho/.atom/packages/emmet/lib/emmet.coffee (133)
+[17921:0714/122339:INFO:CONSOLE(150)] "Emmet: no such extension folder:", source: /home/nacho/.atom/packages/emmet/lib/emmet.coffee (150)
+[17921:0714/122347:INFO:CONSOLE(56)] "Window load time: 96832ms", source: file:///usr/share/atom/resources/app.asar/static/index.js (56)
+[18647:0714/122351:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0714/122428:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0714/122913:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0714/130214:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0714/131742:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0714/192008:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0714/193534:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0715/100729:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0715/100735:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0715/101904:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0715/102527:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0715/110937:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0715/163458:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0715/180228:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0715/185010:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0715/193629:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0715/193913:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/113152:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/115022:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/115052:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/115153:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/115232:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/115432:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/115613:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/125226:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/125243:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[17921:0716/130625:INFO:CONSOLE(211)] "This ColorBuffer is already destroyed", source: /home/nacho/.atom/packages/pigments/lib/color-buffer.coffee (211)
+[18647:0716/133347:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/133509:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/160854:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/161251:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/161652:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/162831:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/163701:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/164535:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.
+[18647:0716/164537:ERROR:sync_control_vsync_provider.cc(60)] glXGetSyncValuesOML should not return TRUE with a media stream counter of 0.

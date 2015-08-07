@@ -1,0 +1,10 @@
+"hadron-ui":
+  title: "hadron-ui"
+  paths: [
+    "/home/nacho/apps/hadron-ui"
+  ]
+"hadron-api":
+  title: "hadron-api"
+  paths: [
+    "/home/nacho/apps/hadron-api"
+  ]

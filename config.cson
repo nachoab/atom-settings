@@ -1,0 +1,32 @@
+"*":
+  "exception-reporting":
+    userId: "7f128a55-d17b-cae8-d951-bea0e489dd4f"
+  welcome:
+    showOnStartup: false
+  linter: {}
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "highlight-column"
+      "file-icons"
+    ]
+    themes: [
+      "seti-ui"
+      "monokai"
+    ]
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+  minimap:
+    plugins:
+      "highlight-selected": true
+  "highlight-selected":
+    lightTheme: true
+  "autocomplete-plus": {}
+  "one-light-ui":
+    layoutMode: "Compact"
+  "atom-beautify":
+    _analyticsUserId: "2d75de8b-109a-4beb-a972-b4f9396e36c4"
+".git-commit.text":
+  editor:
+    showIndentGuide: false
